@@ -59,7 +59,7 @@ span{
 }
 
 .detel p{
-    font-size: 20px;
+    font-size: 18px;
     color: #fff;
     line-height: 20px;
 }
@@ -90,14 +90,6 @@ span{
     bottom: 0;
     transform: translateX(-50%);
     transition: bottom 1s, left 1s;
-}
-
-.images:hover .shape{
-    bottom: 40px;
-}
-
-.images:hover .boy{
-    left: 45%;
 }
 
 .social{
